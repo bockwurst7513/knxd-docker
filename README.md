@@ -3,7 +3,7 @@
 Build the container with specific version of KNXD.
 
 ```bash
-docker build -t michelmu/knxd-docker --build-arg KNXD_VERSION=0.14.39 .
+docker build -t michelmu/knxd-docker --build-arg KNXD_VERSION=0.14.53 .
 ```
 
 Run knxd in docker container
